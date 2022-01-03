@@ -29,7 +29,7 @@ $('#slider_vid').owlCarousel({
 });
 $("#play_vid").click(function () {
     debugger
-    $(this).parent().parent().css('display', 'none')
+    $(this).parents(".thumbnail_item").css('display', 'none')
     let vid_main = $(".main_video figure video");
     $(vid_main).attr('controls', true);
     vid_main[0].play();
