@@ -11,7 +11,6 @@
     <link href="css/bootstrap.min.css.map" rel="stylesheet" type="text/css">
     <link href="css/animate.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-    <link rel="icon" href="images/fav-icon.png" type="image/png" sizes="">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -29,7 +28,7 @@
                 <div class="col-10">
                     <div class="navbar_">
                     <h2 class="nav_brand"><a href="index.php">Logo <span>Here</span></a></h2>
-                    <a href=""><img src="images/navbar_icon.png" alt=""></a>
+                    <a href="javascript:;" class="navbar_icon"><img class="img-fluid" src="images/navbar_icon.png" alt=""></a>
                     </div>
                 </div>
             </div>
