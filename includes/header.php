@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Rent Me</title>
+    <title>Dimes Only World</title>
     <meta charset="UTF-8">
     <meta name="keywords" content="HTML, CSS, JavaScript">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,3 +23,15 @@
     <link href="css/custom.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+    <header class="header_main">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-10">
+                    <div class="navbar_">
+                    <h2 class="nav_brand"><a href="index.php">Logo <span>Here</span></a></h2>
+                    <a href=""><img src="images/navbar_icon.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
