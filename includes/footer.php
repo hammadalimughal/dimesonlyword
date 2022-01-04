@@ -2,7 +2,7 @@
 <footer>
     <div class="newslater">
         <div class="row justify-content-center">
-            <div class="col-9 px-4">
+            <div class="col-xxl-9 col-xl-10 col-lg-11 px-4">
                 <div class="row align-items-center">
                     <div class="col-6">
                         <h4>Subscribe our newsletter</h4>
@@ -19,9 +19,9 @@
     </div>
     <div class="footer_main">
         <div class="row justify-content-center">
-            <div class="col-9 px-4">
+            <div class="col-xxl-9 col-xl-10 col-lg-11 px-4">
                 <div class="row mb-5">
-                    <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
                         <div class="content">
                             <h2 class="logo_footer"><a href="index.php">logo <span>Here</span></a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -34,9 +34,9 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-12 col-12 px-5">
+                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12 px-5">
                         <div class="row pe-4">
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                                 <h4>Resource</h4>
                                 <ul>
                                     <li><a href="javascript:;">Lorem, ipsum dolor.</a></li>
@@ -46,7 +46,7 @@
                                     <li><a href="javascript:;">Ut enim ad minima</a></li>
                                 </ul>
                             </div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                                 <h4>Useful Links</h4>
                                 <ul>
                                     <li><a href="javascript:;">Lorem, ipsum dolor.</a></li>
@@ -56,7 +56,7 @@
                                     <li><a href="javascript:;">Ut enim ad minima</a></li>
                                 </ul>
                             </div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                                 <h4>Contacts</h4>
                                 <ul class="contacts">
                                     <li><a href="javascript:;">2375 E. Camelback Ave. #600 Phoenix, AZ, 85016</a></li>

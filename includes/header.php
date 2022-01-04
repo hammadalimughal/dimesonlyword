@@ -25,8 +25,8 @@
     <header class="header_main">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-10">
-                    <div class="navbar_">
+                <div class="col-xxl-9 col-xl-10 col-lg-11 px-4">
+                    <div class="navbar_ p-0 m-0">
                     <h2 class="nav_brand"><a href="index.php">Logo <span>Here</span></a></h2>
                     <a href="javascript:;" class="navbar_icon"><img class="img-fluid" src="images/navbar_icon.png" alt=""></a>
                     </div>

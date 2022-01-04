@@ -14,7 +14,8 @@ $(window).scroll(function () {
 $('#slider_vid').owlCarousel({
     loop: true,
     margin: 0,
-    nav: true,
+    nav: false,
+    dots: false,
     responsive: {
         0: {
             items: 1
