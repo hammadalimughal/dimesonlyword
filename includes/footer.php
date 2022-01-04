@@ -4,11 +4,11 @@
         <div class="row justify-content-center">
             <div class="col-xxl-9 col-xl-10 col-lg-11 px-4">
                 <div class="row align-items-center">
-                    <div class="col-6">
+                    <div class="col-md-6 col-12 p-md-2 p-0">
                         <h4>Subscribe our newsletter</h4>
                         <p>Please Subscribe our news letter and and get update.</p>
                     </div>
-                    <div class="col-6 p-0">
+                    <div class="col-md-6 col-12 p-0">
                         <div class="newslater_email">
                             <input type="text" placeholder="Enter your email..."><button>Subscribe Now</button>
                         </div>
@@ -34,7 +34,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12 px-5">
+                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12 px-md-5 px-3">
                         <div class="row pe-4">
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                                 <h4>Resource</h4>

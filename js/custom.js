@@ -52,9 +52,7 @@ $('#video_suggestion').slick({
             breakpoint: 1024,
             settings: {
                 slidesToShow: 3,
-                slidesToScroll: 3,
-                infinite: true,
-                dots: true
+                slidesToScroll: 2,
             }
         }
 
@@ -77,10 +75,13 @@ $('#dancers_slider').slick({
             settings: {
                 slidesToShow: 3,
                 slidesToScroll: 3,
-                infinite: true,
-                dots: true
             }
         }
 
     ]
 });
+
+function queVid(vid__){
+    let sor = $(vid__).children().children("figure").children().attr('src');
+    $(".main_video figure video").attr('poster',sor)
+}
