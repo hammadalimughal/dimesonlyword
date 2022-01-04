@@ -829,9 +829,12 @@ header.header_main.bg_header{
     .footer_main .copyright p{
         font-size: 10px;
     }
+<<<<<<< HEAD
     .footer_main{
         padding: 50px 0 0;
     }
+=======
+>>>>>>> 61db8aeccefb047922af5bb93fd2f56916d2fdc1
 }
 @media only screen and (max-width: 519px) {
     .reality_show .main_video .video_title p{
