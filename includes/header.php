@@ -21,16 +21,34 @@
     <link href="css/countrySelect.css" rel="stylesheet" type="text/css">
     <link href="css/custom.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
     <header class="header_main">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xxl-9 col-xl-10 col-lg-11 px-4">
                     <div class="navbar_ p-0 m-0">
-                    <h2 class="nav_brand"><a href="index.php">Logo <span>Here</span></a></h2>
-                    <a href="javascript:;" class="navbar_icon"><img class="img-fluid" src="images/navbar_icon.png" alt=""></a>
+                        <h2 class="nav_brand"><a href="index.php">Logo <span>Here</span></a></h2>
+                        <a data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample" class="navbar_icon"><img class="img-fluid" src="images/navbar_icon.png"
+                                alt=""></a>
                     </div>
                 </div>
             </div>
         </div>
     </header>
+
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasExampleLabel">Logo <span>Here</span></h5>
+            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close">X</button>
+        </div>
+        <div class="offcanvas-body p-0">
+            <ul>
+                <li><a href="javascript:;">Link # 01</a></li>
+                <li><a href="javascript:;">Link # 02</a></li>
+                <li><a href="javascript:;">Link # 03</a></li>
+                <li><a href="javascript:;">Link # 04</a></li>
+                <li><a href="javascript:;">Link # 05</a></li>
+            </ul>
+        </div>
+    </div>

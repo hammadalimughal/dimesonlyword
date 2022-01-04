@@ -89,6 +89,29 @@ header.header_main.bg_header{
 .header_main .navbar_ .navbar_icon{
     width: 40px;
 }
+.offcanvas{
+    background-color: #030001;
+}
+.offcanvas h5{
+    font-size: 30px;
+}
+.offcanvas h5 span{
+    color: #ff1744;
+    font-weight: 700;
+}
+.offcanvas-body ul{
+    margin: 50px 0;
+    padding: 0;
+}
+.offcanvas-body ul li a{
+    display: block;
+    padding: 10px 40px;
+    color: #fff;
+    transition: 0.5s;
+}
+.offcanvas-body ul li a:hover{
+    background-color: rgba(255, 23, 68, 0.2);
+}
 
 /*************************** header Ended ***************************/
 .banner_main{
